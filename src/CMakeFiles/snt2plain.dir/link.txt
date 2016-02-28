@@ -1,0 +1,1 @@
+g++   -O3 -DNDEBUG -DWORDINDEX_WITH_4_BYTE -DBINARY_SEARCH_FOR_TTABLE -MD -MP -MF -MT    CMakeFiles/snt2plain.dir/snt2plain.cpp.o  -o ../bin/snt2plain -rdynamic -L/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/lib 

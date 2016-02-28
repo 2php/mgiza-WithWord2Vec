@@ -1,0 +1,10 @@
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/d4norm.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/hmmnorm.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/mgiza.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/mgiza_lib.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/mkcls/CMakeFiles/mkcls.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/plain2snt.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/snt2cooc.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/snt2coocrmp.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/snt2plain.dir
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/CMakeFiles/symal.dir

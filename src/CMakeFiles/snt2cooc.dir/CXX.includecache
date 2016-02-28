@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/snt2cooc.cpp
+iostream
+-
+string
+-
+strstream
+-
+fstream
+-
+map
+-
+vector
+-
+set
+-
+cstdio
+-
+cstdlib
+-
+

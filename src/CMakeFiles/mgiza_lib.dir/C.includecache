@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/cmd.c
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+cmd.h
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/cmd.h
+stdarg.h
+-
+
+/home/fatemeh/Desktop/Targoman2/Tools/mgiza/mgizapp/src/cmd.h
+
